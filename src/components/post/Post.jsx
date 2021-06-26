@@ -12,8 +12,8 @@ export default function Post({img}) {
       <div className="postInfo">
         <div className="postCats">
           <span className="postCat">
-            <Link className="link" to="/posts?cat=Music">
-              Music
+            <Link className="link" to="/posts?cat=food">
+              food
             </Link>
           </span>
           <span className="postCat">

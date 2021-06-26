@@ -24,8 +24,8 @@ export default function Sidebar() {
             </Link>
           </li>
           <li className="sidebarListItem">
-            <Link className="link" to="/posts?cat=Music">
-              Music
+            <Link className="link" to="/posts?cat=Food">
+              Food
             </Link>
           </li>
           <li className="sidebarListItem">
